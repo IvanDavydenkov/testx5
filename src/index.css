@@ -1,0 +1,7 @@
+/* import  vendor's  files */
+@import "./vendor/normalize.css";
+@import url('./vendor/fonts.css');
+/*import main styles */
+@import url('./App.css');
+
+
